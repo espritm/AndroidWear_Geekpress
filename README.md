@@ -2,7 +2,7 @@
 
 Student project done the Jun 14th 2019 with Exia18, CESI Ecully, France.
 
-The goals is to learn Android development, and to use Wordpress API to display a list of articles on an Android watch. When user clicks on a article, the app should open a second page to display the full article.
+The goals is to learn Android development, and to use Wordpress API to display a list of articles on an Android Watch. When user clicks on an article, the app should open a second page to display the entire article.
 
 Learning goals :
 - Understand Android activities life cycle
