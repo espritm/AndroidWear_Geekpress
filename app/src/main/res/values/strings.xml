@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeekPressMobile</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="ArticleContent">Résumé de ma conférence à propos de l’API Rest WordPress au WP Tech 2015 à Nantes. Qu’est-ce qu’une API Rest ? Comment fonctionne l’API Rest WordPress ? Pour quelles utilisations ? Que va changer l’API dans un futur proche…
+J’ai eu l’honneur de présenter l’API Rest au WP Tech cette année, pile au moment où cette API s’apprête à voir le jour dans le core WordPress, et juste après les annonces de Calypso. En simultanée au WordCamp US,Matt Mullenweg annonce à tout le monde qu’il est temps de passer au Js sur WordPress.
+Les slides de ma conférence sont disponibles ici :</string>
+
+    <string name="ArticleTitle">A la découverte de l’API Rest WordPress</string>
+
+    <string name="AuthorName">Maxime BJ</string>
+
+    <string name="ArticleDate">07 Décembre 2015</string>
+</resources>
